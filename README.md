@@ -26,10 +26,10 @@ Pursuing a dual degree in Digital and Data Solutions Management (MS2D). Passiona
 
 ---
 
-## 💡 Selected Projects
-* **Due Diligence Platform for Crypto Funds (2025):** Developed a platform using ML and NLP for risk assessment and real-time analysis, including biometric authentication (MTCNN). **[Link to Repo]**
-* **Speech Emotion Recognition (2025):** Implemented generative models (VAE, Diffusion) and ResNet classifiers (PyTorch) for emotion classification. **[Link to Repo]**
-* **MLOps Project with MLflow:** Automated CI/CD pipelines, deployed models as REST APIs (FastAPI), and tracked experiments with MLflow + Kibana. **[Link to Repo]**
+## 💡 Projects
+* **Due Diligence Platform for Crypto Funds (2025):** Developed a platform using ML and NLP for risk assessment and real-time analysis, including biometric authentication (MTCNN).
+* **Speech Emotion Recognition (2025):** Implemented generative models (VAE, Diffusion) and ResNet classifiers (PyTorch) for emotion classification. 
+* **MLOps Project with MLflow:** Automated CI/CD pipelines, deployed models as REST APIs (FastAPI), and tracked experiments with MLflow + Kibana. 
 
 ---
 
