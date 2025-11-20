@@ -5,9 +5,9 @@
 
 ## 🔗 Connect
 * **GitHub:** [https://github.com/Ghaith-Saidani](https://github.com/Ghaith-Saidani)
-* **LinkedIn:** [Your LinkedIn Profile Link](https://www.linkedin.com/in/ghaith-saidani)
+* **LinkedIn:** [https://www.linkedin.com/in/ghaith-saidani](https://www.linkedin.com/in/ghaith-saidani)
 * **Email:** ghaithx@hotmail.fr
-* **portfolio:** [ghaithx@hotmail.fr](https://ghaith-saidani.github.io/)
+* **portfolio:** [https://ghaith-saidani.github.io/](https://ghaith-saidani.github.io/)
 * **Location:** Limoges, France
 
 ---
